@@ -1,4 +1,3 @@
-Windows Version: [[How to setup Robotpy and Driver Station on Windows (Not complete)]]
 ## You should only need to follow this guide if you have already tried the robotpy-installer repository in the github
 
 Here is the link to the github: (https://github.com/AltaHighRobotics/RobotpyInstallers)
@@ -62,5 +61,3 @@ cargo install cargo-bundle
 git clone https://github.com/Redrield/Conductor
 make setup && make release
 ````
-
-#type/Robotics
