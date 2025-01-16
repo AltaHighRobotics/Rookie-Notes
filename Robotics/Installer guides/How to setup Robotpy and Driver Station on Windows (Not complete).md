@@ -1,4 +1,3 @@
-Linux Version: [[How to setup Robotpy and Driver Station on Linux]]
 ## You should only need to follow this guide if you have already tried the robotpy-installer repository in the github
 
 Here is the link to the github: (https://github.com/AltaHighRobotics/RobotpyInstallers)
